@@ -1,1 +1,3 @@
-# rsschool-2019Q1-html-css
+Aliaksandr Hancharuk
+HTML CSS Basics: https://www.codecademy.com/users/aliaksan/achievements
+HTML CSS Basics: https://htmlacademy.ru/profile/id587743/achievements
